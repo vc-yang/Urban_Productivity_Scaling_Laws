@@ -1,5 +1,5 @@
 # Origin of Urban Productivity Scaling Laws
-This is the code and data repository for the “Origin of urban productivity scaling laws”, a paper under review at *Nature Human Behavior*. 
+This is the code and data repository for the “Origin of urban productivity scaling laws”, a paper published at Physical Review E. 
 The code is written in Matlab. Last successful ran using Matlab version 2016a in August 2017. 
 Authored by Vicky Chuqiao Yang, Last updated August 2017. 
 
